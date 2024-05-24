@@ -224,7 +224,7 @@
     "Usuario",
     "WEBPUSH"
   ],
-  "workbench.colorTheme": "Rosé Pine Moon",
+  "workbench.colorTheme": "Bearded Theme Vivid Black",
   "window.density.editorTabHeight": "compact",
   "tabnine.experimentalAutoImports": true,
   "workbench.colorCustomizations": {},
@@ -232,5 +232,9 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "workbench.sideBar.location": "right"
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
